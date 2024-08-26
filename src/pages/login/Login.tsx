@@ -97,7 +97,7 @@ export default observer(() => {
                     <div className={styles.bottom}>
                         <div className={styles.links}>
                             <div className={styles.socials}>
-                                <a
+<!--                                <a
                                     href="https://github.com/revoltchat"
                                     target="_blank"
                                     rel="noreferrer">
@@ -123,29 +123,29 @@ export default observer(() => {
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.about" />
-                                </a>
+                                </a>-->
                                 <a
-                                    href="https://revolt.chat/terms"
+                                    href="https://www.conquer.nexus/terms-of-service"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.tos" />
                                 </a>
                                 <a
-                                    href="https://revolt.chat/privacy"
+                                    href="https://www.conquer.nexus/privacy-policy"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.privacy" />
                                 </a>
                             </div>
                         </div>
-                        <a
+<!--                        <a
                             className={styles.attribution}
                             href="https://unsplash.com/@fakurian"
                             target="_blank"
                             rel="noreferrer">
                             <Text id="general.image_by" /> &lrm;@fakurian &rlm;·
                             unsplash.com
-                        </a>
+                        </a>-->
                     </div>
                 </div>
             </div>
