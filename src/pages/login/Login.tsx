@@ -94,8 +94,8 @@ export default observer(() => {
                     </div>
                     {/*<div className={styles.loginQR}></div>*/}
                     {/*</div>*/}
-                    <div className={styles.bottom}>
-                        /*<div className={styles.links}>
+					{/*<div className={styles.bottom}>
+                        <div className={styles.links}>
                             <div className={styles.socials}>
                         		<a
                                     href="https://github.com/revoltchat"
@@ -137,7 +137,7 @@ export default observer(() => {
                                     <Text id="general.privacy" />
                                 </a>
                             </div>
-                        </div>*/
+                        </div>
                     	<a
                             className={styles.attribution}
                             href="https://unsplash.com/@fakurian"
@@ -146,7 +146,7 @@ export default observer(() => {
                             <Text id="general.image_by" /> &lrm;@fakurian &rlm;·
                             unsplash.com
                         </a>
-                    </div>
+                    </div>*/}
                 </div>
             </div>
         </>
