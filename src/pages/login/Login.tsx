@@ -95,57 +95,57 @@ export default observer(() => {
                     {/*<div className={styles.loginQR}></div>*/}
                     {/*</div>*/}
                     <div className={styles.bottom}>
-                        <div className={styles.links}>
+                        /*<div className={styles.links}>
                             <div className={styles.socials}>
-<!--                                <a
+                        		<a
                                     href="https://github.com/revoltchat"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Github size={24} />
-                                </a>-->
-<!--                                <a
+                                </a>
+                                <a
                                     href="https://twitter.com/revoltchat"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Twitter size={24} />
-                                </a>-->
-<!--                                <a
+                                </a>
+                                <a
                                     href="https://mastodon.social/@revoltchat"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Mastodon size={24} />
-                                </a>-->
+                                </a>
                             </div>
                             <div className={styles.bullet} />
                             <div className={styles.revolt}>
-<!--                                <a
+                                <a
                                     href="https://revolt.chat/about"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.about" />
-                                </a>-->
-                                <a
+                            	</a>
+                                	<a
                                     href="https://www.conquer.nexus/terms-of-service"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.tos" />
                                 </a>
-                                <a
+                                	<a
                                     href="https://www.conquer.nexus/privacy-policy"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.privacy" />
                                 </a>
                             </div>
-                        </div>
-<!--                        <a
+                        </div>*/
+                    	<a
                             className={styles.attribution}
                             href="https://unsplash.com/@fakurian"
                             target="_blank"
                             rel="noreferrer">
                             <Text id="general.image_by" /> &lrm;@fakurian &rlm;·
                             unsplash.com
-                        </a>-->
+                        </a>
                     </div>
                 </div>
             </div>
