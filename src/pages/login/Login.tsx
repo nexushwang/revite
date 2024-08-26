@@ -102,23 +102,23 @@ export default observer(() => {
                                     target="_blank"
                                     rel="noreferrer">
                                     <Github size={24} />
-                                </a>
-                                <a
+                                </a>-->
+<!--                                <a
                                     href="https://twitter.com/revoltchat"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Twitter size={24} />
-                                </a>
-                                <a
+                                </a>-->
+<!--                                <a
                                     href="https://mastodon.social/@revoltchat"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Mastodon size={24} />
-                                </a>
+                                </a>-->
                             </div>
                             <div className={styles.bullet} />
                             <div className={styles.revolt}>
-                                <a
+<!--                                <a
                                     href="https://revolt.chat/about"
                                     target="_blank"
                                     rel="noreferrer">
