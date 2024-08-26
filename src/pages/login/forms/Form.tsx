@@ -255,7 +255,7 @@ export const Form = observer(({ page, callback }: Props) => {
                     {!IS_REVOLT && (
                         <>
                             <br />
-                            <Tip palette="primary">
+<!--                            <Tip palette="primary">
                                 <span>
                                     <Text id="login.unofficial_instance" />{" "}
                                     <a
@@ -266,7 +266,7 @@ export const Form = observer(({ page, callback }: Props) => {
                                         <Text id="general.learn_more" />
                                     </a>
                                 </span>
-                            </Tip>
+                            </Tip>-->
                         </>
                     )}
                 </>
